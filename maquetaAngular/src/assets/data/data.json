@@ -1,0 +1,101 @@
+{     
+    
+    "imageBanner":"https://i.ibb.co/mySDdP9/banner.png",
+    "acercaD":"Desarrolladora FullStack. Apasionada por el campo de la tecnología, en constante aprendizaje para una mejora continua centrada en lograr exitosamente las metas proyectadas.",
+    "logo":"https://i.ibb.co/tQRkm2S/arg-programa.png",
+    "informacionGeneral": { 
+        "nombre":"Jeanney Claivel Reyes Z.",
+        "posicion":"Desarrolladora FullStack",
+        "email":"jclayrz11@",
+        "ubicacion":"Buenos Aires,Argentina"
+     },
+    
+  
+    
+     "experiencia":[
+        {
+            "trabajo":"PETSMANIAS, C.A.",
+            "cargo":"Gerente General",
+            "fecha":"Julio 2006 / Agosto 2019",
+            "lugar":"Cdad. Guayana, Venezuela",
+            "img":"https://i.ibb.co/P9v0n5L/educacion-IT.png"
+        }
+     ],
+     "estudios":[
+        {   "instituto":"Centro de Formación Profesional N°35",
+            "titulo":"Trayecto Programador JAVA",
+            "duracion":"Abril 2022 / Julio 2023",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/hyMgPPT/CFP.png"
+        },
+        {
+            "instituto":"ARGENTINA PROGRAMA",
+            "titulo":"Programador FullStack",
+            "duracion":"Julio 2022 / Enero 2023",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/tQRkm2S/arg-programa.png"
+        },
+        {
+            "instituto":"FREECODECAMP",
+            "titulo":"Responsive Web Design",
+            "duracion":"Duración de 300Hrs",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/Fbr8Xg0/Free-Code-Camp.png" 
+        },
+        {
+            "instituto":"MINDHUB LA",
+            "titulo":"Developer FullStack MERN",
+            "duracion":"Sept 2021 / Mayo 2022",
+            "ubicacion":"CABA, Argerntina",
+           "imagen":"https://i.ibb.co/YhYH4c0/logo-mindhub.png" 
+        },
+        {
+            "instituto":"ARGENTINA PROGRAMA",
+            "titulo":"Programación, #YoProgramo",
+            "duracion":"Feb 2022 / Abril 2022",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/tQRkm2S/arg-programa.png"  
+        },
+        {
+            "instituto":"EDUCACION IT",
+            "titulo":"Tester QA",
+            "duracion":"Marzo 2021 / Mayo 2021",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/P9v0n5L/educacion-IT.png"    
+        }     ],
+     "skill":[
+        {
+            "habilidad":"Resolución de Problemas (Habilidades Blandas)",
+            "rango":"85%"
+        },
+        {
+            "habilidad":"Diseño y Programación Web (Habilidades Duras)",
+            "rango":"80%" 
+        }
+     ],
+
+     "proyectos":[
+        {   "proyecto":"BARBERSHOP CCS",
+            "descripcion":"Desarrollamos un sitio Web de comercio Frontend y Backend para el ambito de belleza y cuidados masculinos. Basado en Angular y MongolDB.",
+            "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+        },
+        {
+            "proyecto":"GUARAMO EXPRESS",
+            "descripcion":"Desarrollamos una E-Commerce ficticia para un una plataforma bancaria, basada en HTML, CSS y Boostrap.",
+            "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+        },
+        {
+            "proyecto":"MyTinerary",
+            "descripcion":"Desarrolle una plataforma Web funcional, basada en JavaScrip, Node, Angular, API (creada desde cero) y MongolDB, y fue hosteada con HerokuCli.",
+            "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+        },
+        {
+            "proyecto":"Cine App",
+            "descripcion":"Página de una app desarralloda con JavaScript, API y React, solo con Frontend ",
+             "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+        }
+        
+
+     ]
+    
+}
