@@ -30,7 +30,7 @@
         },
         {
             "instituto":"ARGENTINA PROGRAMA",
-            "titulo":"Programador FullStack",
+            "titulo":"SéPrograma",
             "duracion":"Julio 2022 / Enero 2023",
             "ubicacion":"CABA, Argentina",
             "imagen":"https://i.ibb.co/tQRkm2S/arg-programa.png"
@@ -77,7 +77,7 @@
      "proyectos":[
         {   "proyecto":"BARBERSHOP CCS",
             "descripcion":"Desarrollamos un sitio Web de comercio Frontend y Backend para el ambito de belleza y cuidados masculinos. Basado en Angular y MongolDB.",
-            "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+            "image":"https://i.ibb.co/z2ng3hw/barbershop.png"
         },
         {
             "proyecto":"GUARAMO EXPRESS",
@@ -87,12 +87,17 @@
         {
             "proyecto":"MyTinerary",
             "descripcion":"Desarrolle una plataforma Web funcional, basada en JavaScrip, Node, Angular, API (creada desde cero) y MongolDB, y fue hosteada con HerokuCli.",
-            "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+            "image":"https://i.ibb.co/yFzkX44/Whats-App-Image-2022-09-20-at-6-45-32-PM.jpg"
         },
         {
             "proyecto":"Cine App",
             "descripcion":"Página de una app desarralloda con JavaScript, API y React, solo con Frontend ",
-             "image":"https://i.ibb.co/gWkQrGJ/guaramo-Espress.png"
+             "image":"https://i.ibb.co/vqcRymM/cineApp.jpg"
+        },
+        {
+            "proyecto":"Portfolio YoProgramo",
+            "descripcion":"Página de una app desarralloda con JavaScript, TypeScript, API y Angular, con MySQL ",
+             "image":"https://i.ibb.co/zNCDk0S/portafolio-Yo-Programo.jpg" 
         }
         
 

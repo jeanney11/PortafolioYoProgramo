@@ -3,24 +3,13 @@
     <div class="border border-dark" style="background-color: #a9c25d;">
       <div class="container">
         <h2 class="titulos panel-title">Proyect</h2>
-
-
-        <!-- <div *ngFor = "let proyecto of proyectoList">
-          <img class="img-fluid" src="{{proyecto.image}}"/>
-        <div class="row">
-          <h4 style="color: white;"><b>  {{proyecto.proyecto}}  </b></h4>
-          <p style="color: white; font-size: 18px;"> {{proyecto.descripcion}} </p>
-        </div>        
-        </div> -->
-
-       
         <div class="education card-body card-group " style="justify-content: space-evenly;flex-wrap: wrap;">
 <div *ngFor = "let proyectos of proyectoList">
         <div  class="card" style="width: 18rem;">
-          <img src="{{proyectos.image}}" class="card-img-top" alt="...">
+          <img src="{{proyectos.image}}" class="card-img-top" alt="..." width="100px" height="150px">
           <div class="card-body">
             <h4 style="color: white;"><b>  {{proyectos.proyecto}}  </b></h4>
-            <p class="card-text" style="color:#a9c25d; font-size: 18px;"> {{proyectos.descripcion}} </p>
+            <p class="contenido card-text" style="color:#a9c25d; font-size: 18px; height: 150px;" > {{proyectos.descripcion}} </p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
           </div>
         </div>
